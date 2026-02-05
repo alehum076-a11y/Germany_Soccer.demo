@@ -1,0 +1,6 @@
+[theme]
+primaryColor = '#99acc9'
+backgroundColor = '#2f2323'
+secondaryBackgrounColor = '#7b0d0d'
+textColor = '#d6c4c4'
+toolbarMode = 'viewer'
